@@ -25,13 +25,6 @@ L'attività ha riguardato analisi, sperimentazione e validazione della soluzione
 - Analisi RSSI e packet loss
 - Test sul campo e documentazione tecnica
 
-## 📚 Riferimenti principali
-
-- Scheda Thyone-I di Würth
-- STM32CubeMX / STM32CubeIDE
-- Documentazione STM32
-- WE UART Terminal
-
 ## 📜 Licenza e Copyright
 
 © 2026 Simone Dama. **Tutti i diritti riservati.**
